@@ -1,4 +1,6 @@
-### Hi there 👋
+### 神奇的Winslow SorenEricMent
+[个人网站](https://www.winsloweric.com)
+[邮箱](mailto://i@winsloweric.cn)
 
 <!--
 **SorenEricMent/SorenEricMent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
