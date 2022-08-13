@@ -11,6 +11,6 @@ Some steps does not require decryption.
 
 The final result might seem confusing but ya r CLOSE!
 
-Something is hidden in basement.winslow.cloud.
+Something is hidden in basement.winslow.cloud, and dont just "A" it, do something else.
 
 -->
