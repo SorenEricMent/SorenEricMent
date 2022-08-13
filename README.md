@@ -3,13 +3,14 @@
 [邮箱](mailto://i@winsloweric.cn)
 
 <!--
-Catch the Flag!
+Ya started Winslow's Challenge?
 
-Flag one:
+Here is some hints:
 
-A => E
-F => Z
-D => P
-plz reverse.
+Some steps does not require decryption.
+
+The final result might seem confusing but ya r CLOSE!
+
+Something is hidden in basement.winslow.cloud.
 
 -->
