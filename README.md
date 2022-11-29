@@ -1,16 +1,10 @@
-### 神奇的Winslow SorenEricMent
-[个人网站](https://www.winsloweric.com)
-[邮箱](mailto://i@winsloweric.cn)
+# 神奇的Winslow SorenEricMent!
+### 是天狗妖怪!👺
+#### Run otherwise become LASAGNA👹
+##### me sometime do javascitprweww
+[个人网站/修整中](https://www.winsloweric.com)
 
-<!--
-Ya started Winslow's Challenge?
 
-Here is some hints:
+[邮箱](mailto://i@winslow.cloud)
 
-Some steps does not require decryption.
-
-The final result might seem confusing but ya r CLOSE!
-
-Something is hidden in basement.winslow.cloud, and dont just "A" it, do something else.
-
--->
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=SorenEricMent&count_private=true&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Winslow's GitHub Stats" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=SorenEricMent&layout=compact&langs_count=8&theme=calm&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="185px" />
