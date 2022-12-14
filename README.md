@@ -7,6 +7,7 @@
 [个人网站(修整中)](https://www.winsloweric.com) | [邮箱](mailto://i@winslow.cloud)
 
 ### Development Status
+ - \[Redacted\]: In request of one of the best friends of mine, priorized.
  - blorum, blorum-doc: Halted for rewriting permission system.
  - discourse-spider: Lite edition in todo list, awaiting discourse-client-js
  - discourse-client-js: in active development.
