@@ -4,7 +4,7 @@
 - me sometime do javascitprweww
 
 
-[个人网站(修整中)](https://www.winsloweric.com) | [邮箱](mailto://i@winslow.cloud)
+[个人网站(修整中)](https://www.winsloweric.com) | [邮箱](mailto://i@winslow.cloud) <img src="https://visitor-badge.glitch.me/badge?page_id=SorenEricMent" />
 
 ### Development Status
  - blorum, blorum-doc: Halted for rewriting permission system.
@@ -14,5 +14,5 @@
 
 
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=SorenEricMent&layout=compact&count_private=true&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Winslow's GitHub Stats" height="148px" /><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=SorenEricMent&layout=compact&langs_count=8&theme=calm&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="148px" />
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=SorenEricMent" />
+
 <img src="https://ipv4.games/claim?name=WinslowEric" style="display:none" width="0" height="0" />
