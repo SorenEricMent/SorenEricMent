@@ -2,6 +2,8 @@
 - 是天狗妖怪!👺
 - Run otherwise become LASAGNA👹
 - me sometime do javascitprweww
+- I hate reading others' code & manual, so I code my own [here](https://github.com/WinslowCloud) 
+
 [个人网站(修整中)](https://www.winsloweric.com) | [邮箱](mailto://i@winslow.cloud) 
 
 ### Development Status
@@ -9,6 +11,7 @@
  - discourse-spider: Lite edition in todo list, awaiting discourse-client-js
  - discourse-client-js: in active development.
  - \[Redacted\]-core: prototype in plan.  
+ - WinslowCloud related projects: working!
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=SorenEricMent" />
 
