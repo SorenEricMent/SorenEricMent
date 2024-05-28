@@ -1,5 +1,5 @@
 # Yunchuan "Tengu Youkai Winslow" Hu
-**a.k.a. SorenEricMent**
+a.k.a. **SorenEricMent** / **WinslowEric** / **Winslow Flandre**
 
 ## whoami(1)
 - BSc@UBC
