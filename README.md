@@ -1,17 +1,18 @@
-# 这里是神奇的Winslow SorenEricMent!
-- 是天狗妖怪!👺
-- Run otherwise become LASAGNA👹
-- me sometime do javascitprweww
-- I hate reading others' code & manual, so I code my own [here](https://github.com/WinslowCloud) 
+# Yunchuan "Tengu Youkai Winslow" Hu
+**a.k.a. SorenEricMent**
 
-[个人网站(修整中)](https://www.winsloweric.com) | [邮箱](mailto://i@winslow.cloud) 
+## whoami(1)
+- BSc@UBC
+- Sometimes do JavaScript...?
+- InfoSec, noob.
+- self-hoster and checkout @WinslowCloud 
 
-### Development Status
- - blorum, blorum-doc: Halted for rewriting permission system.
- - discourse-spider: Lite edition in todo list, awaiting discourse-client-js
- - discourse-client-js: in active development.
- - \[Redacted\]-core: prototype in plan.  
- - WinslowCloud related projects: working!
+## SELECT language from tengu WHERE id="winsloweric";
+Esperanto, Chinese, English, I also learn Latin
+
+---
+
+[My site](https://www.winsloweric.com) | [Email](mailto://i@winsloweric.com) 
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=SorenEricMent" />
 
