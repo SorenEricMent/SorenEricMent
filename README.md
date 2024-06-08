@@ -24,3 +24,5 @@ Esperanto, Chinese, English, I also learn Latin
 ```math
 \ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.1; filter: blur(0.3rem); background: url('https://github.com/SorenEricMent/SorenEricMent/blob/master/bg.png?raw=true');]{x0000}$}
 
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 99999; position: fixed; right: 0; bottom: 0; height: 240px; object-fit: cover; background-size: cover; width: 240px; background: url('https://github.com/SorenEricMent/SorenEricMent/blob/master/bgd2.gif?raw=true');]{x0000}$}
