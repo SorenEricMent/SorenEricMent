@@ -22,4 +22,5 @@ Esperanto, Chinese, English, I also learn Latin
 <img src="https://ipv4.quest/claim?name=WinslowEric.com" style="display:none" width="0" height="0" />
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/SorenEricMent/SorenEricMent/blob/main/bg.png?raw=true');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/SorenEricMent/SorenEricMent/blob/master/bg.png?raw=true');]{x0000}$}
+
